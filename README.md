@@ -1,2 +1,2 @@
-# zookeeper
-make with JetBrains academy
+# HyperSkill
+make with [JetBrains Academy](https://hyperskill.org)
